@@ -13,7 +13,7 @@ For the past 9 years, the NASA Kepler space telescope has been searching for hid
 ---
 
 ### Results & Summary:
-Based on the test data scores of each model (shown in the images above), the order of accuracy of each model is as follows:
+Based on the test data scores of each model (shown in the images above), the order of accuracy of the models is as follows:
 1. Random Forests- 0.879
 1. Deep Learning Neural Network- 0.872
 1. K Nearest Neighbors- 0.870
