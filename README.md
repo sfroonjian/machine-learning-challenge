@@ -5,10 +5,10 @@ For the past 9 years, the NASA Kepler space telescope has been searching for hid
 
 ### Data collected:
 ![](screenshots/rf.png)
-![](screenshots/knn.png)
 ![](screenshots/dl.png)
-![](screenshots/svm.png)
+![](screenshots/knn.png)
 ![](screenshots/lr.png)
+![](screenshots/svm.png)
 
 ---
 
